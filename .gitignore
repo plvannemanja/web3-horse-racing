@@ -1,0 +1,6 @@
+artifacts/
+*.json
+.deps
+.env
+.DS_Store
+.vscode
